@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pushercoins/static/css/main.183060c6.chunk.css",
+    "main.js": "/pushercoins/static/js/main.e1c79467.chunk.js",
+    "main.js.map": "/pushercoins/static/js/main.e1c79467.chunk.js.map",
+    "runtime-main.js": "/pushercoins/static/js/runtime-main.0a0ba351.js",
+    "runtime-main.js.map": "/pushercoins/static/js/runtime-main.0a0ba351.js.map",
+    "static/js/2.0c72f2e0.chunk.js": "/pushercoins/static/js/2.0c72f2e0.chunk.js",
+    "static/js/2.0c72f2e0.chunk.js.map": "/pushercoins/static/js/2.0c72f2e0.chunk.js.map",
+    "index.html": "/pushercoins/index.html",
+    "precache-manifest.9cdca113404318f9c4d89a7efa6fe9b3.js": "/pushercoins/precache-manifest.9cdca113404318f9c4d89a7efa6fe9b3.js",
+    "service-worker.js": "/pushercoins/service-worker.js",
+    "static/css/main.183060c6.chunk.css.map": "/pushercoins/static/css/main.183060c6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a0ba351.js",
+    "static/js/2.0c72f2e0.chunk.js",
+    "static/css/main.183060c6.chunk.css",
+    "static/js/main.e1c79467.chunk.js"
+  ]
+}
