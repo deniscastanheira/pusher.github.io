@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.183060c6.chunk.css",
-    "main.js": "/static/js/main.e1e20462.chunk.js",
-    "main.js.map": "/static/js/main.e1e20462.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.47dd73a1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.47dd73a1.js.map",
-    "static/js/2.0c72f2e0.chunk.js": "/static/js/2.0c72f2e0.chunk.js",
-    "static/js/2.0c72f2e0.chunk.js.map": "/static/js/2.0c72f2e0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.20159582b1e728efb9131c5df91dc028.js": "/precache-manifest.20159582b1e728efb9131c5df91dc028.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.183060c6.chunk.css.map": "/static/css/main.183060c6.chunk.css.map"
+    "main.css": "/wwwpushercoins/static/css/main.183060c6.chunk.css",
+    "main.js": "/wwwpushercoins/static/js/main.ba1e7078.chunk.js",
+    "main.js.map": "/wwwpushercoins/static/js/main.ba1e7078.chunk.js.map",
+    "runtime-main.js": "/wwwpushercoins/static/js/runtime-main.c3d4ed4a.js",
+    "runtime-main.js.map": "/wwwpushercoins/static/js/runtime-main.c3d4ed4a.js.map",
+    "static/js/2.0c72f2e0.chunk.js": "/wwwpushercoins/static/js/2.0c72f2e0.chunk.js",
+    "static/js/2.0c72f2e0.chunk.js.map": "/wwwpushercoins/static/js/2.0c72f2e0.chunk.js.map",
+    "index.html": "/wwwpushercoins/index.html",
+    "precache-manifest.2de4d0cfe6f7364775cad16bfd150ebb.js": "/wwwpushercoins/precache-manifest.2de4d0cfe6f7364775cad16bfd150ebb.js",
+    "service-worker.js": "/wwwpushercoins/service-worker.js",
+    "static/css/main.183060c6.chunk.css.map": "/wwwpushercoins/static/css/main.183060c6.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.47dd73a1.js",
+    "static/js/runtime-main.c3d4ed4a.js",
     "static/js/2.0c72f2e0.chunk.js",
     "static/css/main.183060c6.chunk.css",
-    "static/js/main.e1e20462.chunk.js"
+    "static/js/main.ba1e7078.chunk.js"
   ]
 }
